@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="302.0" y="0.0">common.UsuarioMulta</node>
+    <node x="0.0" y="0.0">common.DetallePrestamo</node>
+    <node x="0.0" y="296.0">common.Prestamo</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="0.5566076829614488" x="563.6497519687102" y="615.7082910627412" />
+  <SelectedNodes>
+    <node>common.UsuarioMulta</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
